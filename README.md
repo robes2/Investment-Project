@@ -27,4 +27,4 @@ from tutorial.crunchbase_investments as i
 ;
 
 Next I will use analytics and a data vizulization tool that is found here https://public.tableau.com/app/profile/robel.h2839/viz/InvestmentDashboard_17206636297300/Dashboard3. 
-The final results are found here   file:///C:/Users/robel/OneDrive/Desktop/UB/SQL/Investments%2030%20Days%20of%20SQL%20by%20Geeks%20for%20Geeks.pdf . 
+The final results are found above. 
